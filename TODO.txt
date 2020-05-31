@@ -1,0 +1,3 @@
+1. Create view to manage in filesystem
+2. Create console view
+3. Create filter view
